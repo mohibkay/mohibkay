@@ -9,5 +9,5 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [twitter](https://twitter.com/mohibkay) [linkedin](https://www.linkedin.com/in/mohibkay)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I sing when I code
+- ⚡ Fun fact: I can sing
 
