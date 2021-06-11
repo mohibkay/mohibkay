@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently doing a Fullstack Web Developer Bootcamp at Coding Blocks
+
 - 🌱 I’m currently learning React, NodeJs, ExpressJs, MongoDB and more
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for a full time job
