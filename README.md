@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can sing
 
-[mohibkhan.netlify.app](https://mohibkhan.netlify.app/)
+[mohib.in](https://mohib.in)
 
 
 ##  My Github Status 👨‍💻
