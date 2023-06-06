@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on React projects
 - 📫 How to reach me: [twitter](https://twitter.com/mohibkay) [linkedin](https://www.linkedin.com/in/mohibkay)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can sing
+- ⚡ Fun fact: I am a hobbyist singer
 
 [mohib.in](https://mohib.in)
 
