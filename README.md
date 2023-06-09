@@ -2,11 +2,9 @@
 
 - 🌱 I’m currently learning React, NodeJs, ExpressJs, MongoDB and more
 - 👯 I’m looking to collaborate on React projects
-- 📫 How to reach me: [twitter](https://twitter.com/mohibkay) [linkedin](https://www.linkedin.com/in/mohibkay)
+- 📫 How to reach me: [mohib.in](https://mohib.in) [twitter](https://twitter.com/mohibkay) [linkedin](https://www.linkedin.com/in/mohibkay)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a hobbyist singer
-
-[mohib.in](https://mohib.in)
 
 **Languages and Tools:**
 
