@@ -15,23 +15,9 @@ I'm Mohib, a frontend developer working at [Cleartrip](https://www.cleartrip.com
 
 **Connect with me:**
 
-<p>
 <a href="https://twitter.com/mohibkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohibkay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohibkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohibkay" height="30" width="40" /></a>
 <a href="https://instagram.com/mohibkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohibkay" height="30" width="40" /></a>
-
-<section style="margin-top: 1.5rem">
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohibkay&theme=dracula&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohibkay&hide_border=false"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohibkay&hide_border=true" alt="Mohib's GitHub streaks" />
-</picture>
 
 <div style="display:flex; column-gap: 8px; margin-top: 1rem">
   <picture style="flex: 1; display: flex; align-items: stretch;">
@@ -58,4 +44,3 @@ I'm Mohib, a frontend developer working at [Cleartrip](https://www.cleartrip.com
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohibkay&layout=compact&hide_border=true&hide_border=true" alt="Mohib's Top Languages"/>
 </picture>
 </div>
-</section>
