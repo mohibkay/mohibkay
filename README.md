@@ -2,7 +2,7 @@
 
 ### Hello World 👋
 
-I'm Mohib, a frontend developer working at [Cleartrip](https://www.cleartrip.com). Passionate about building sleek looking UIs.
+I'm Mohib, a frontend developer working at [Flipkart](https://www.flipkart.com/). Passionate about building sleek looking UIs.
 
 - 🌱 Currently learning backend technologies
 - 👯 I’m looking to collaborate on side projects
